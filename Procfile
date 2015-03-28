@@ -1,1 +1,1 @@
-worker: bundle exec middleman server
+web: bundle exec middleman server -p 80
