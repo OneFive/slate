@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: PolarOS Docs
 
 language_tabs:
   - shell
